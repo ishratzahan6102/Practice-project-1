@@ -25,7 +25,6 @@ p{
     width: 35%;
     float: left;
     margin: 5%;
-    margin-bottom: 4%;
     padding: 1%;
 }
 
@@ -71,8 +70,5 @@ section{
     border-radius: 5px;
 
 }
-.E{
-    text-align: center;
-    color: white
-}
+
 
