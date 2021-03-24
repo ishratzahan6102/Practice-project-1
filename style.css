@@ -25,11 +25,13 @@ p{
     width: 35%;
     float: left;
     margin: 5%;
+    margin-bottom: -5%;
     padding: 1%;
 }
 
 .half-width img{
     width: 100%;
+   
    
    
 }
