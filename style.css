@@ -8,34 +8,26 @@ h1{
 h2{
     font-size: 40px;
 }
-
 p{
     color: dimgray;
 }
-
 .orange-highlight{
     color:orange;
 }
-
-.Name-highlight-Green{
+.Name-highlight{
     color: deeppink
 }
-
 .half-width{
     width: 35%;
     float: left;
     margin: 5%;
-    margin-bottom: -5%;
     padding: 1%;
+    
+   
 }
-
 .half-width img{
-    width: 100%;
-   
-   
-   
+    width: 100%; 
 }
-
 .top-banner{
      background-image: url(images/top-banner.png);
      background-repeat: no-repeat;
@@ -43,7 +35,6 @@ p{
 section{
     height: 500px;
 }
-
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon, tomato);
@@ -56,21 +47,21 @@ section{
     background-image: url(Images/dream-bg.png);
     background-repeat: no-repeat;
     background-position:right;
-}
 
+}
 .link-button-2{
     text-decoration: none;
     background-image: linear-gradient(45deg, PINK , deeppink);
     padding: 10px 20px;
     color: white;
     font-weight: 700px;
-
 }
 
 .single-experience{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px dimgray;
     border-radius: 5px;
-
 }
 
-
+.experience-area{
+    margin-top: 20%;
+}
